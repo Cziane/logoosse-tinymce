@@ -1,8 +1,8 @@
 Package.describe({
   name: 'logoosse:tinymce',
   version: '1.0.0',
-  summary: 'TinyMCE editor Template',
-  git: '',
+  summary: 'This is a light integration of tinymce editor for meteor',
+  git: 'https://github.com/Logoosse/logoosse-tinymce.git',
 });
 
 Package.onUse(function (api) {
