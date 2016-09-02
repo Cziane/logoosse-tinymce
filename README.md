@@ -46,7 +46,7 @@ This pacakge is a light integration of tinymce for meteor.
 
 	The next step to reach is the possibility to toggle raw version of the editor content.
 
-## 3.Lisence
+## 3.License
 
 	**GNU LESSER GENERAL PUBLIC LICENSE**
 
