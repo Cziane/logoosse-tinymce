@@ -1,5 +1,4 @@
-Template.tinymce_editor.onCreated(function () {
-  console.log(Template.currentData().id);
+Template.tinymce_editor.onRendered(function () {
     tinymce.init({
         selector: Template.currentData().id!=null ?'#'+Template.currentData().id : "textarea",
         height: 300,

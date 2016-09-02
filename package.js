@@ -1,6 +1,6 @@
 Package.describe({
   name: 'logoosse:tinymce',
-  version: '1.0.0',
+  version: '1.0.1',
   summary: 'This is a light integration of tinymce editor for meteor',
   git: 'https://github.com/Logoosse/logoosse-tinymce.git',
 });
