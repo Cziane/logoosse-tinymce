@@ -4,13 +4,13 @@
 
 This pacakge is a light integration of tinymce for meteor.
 
-![Official website of tinymce](https://www.tinymce.com)
+[Official website of tinymce](https://www.tinymce.com)
 
 ## Table of Contents
 1. [Getting Started](#getting-started)
-	1.1 [Add in your template](#Add-in-your-template)
-	1.2 [Get the editor content](#Get-the-editor-content)
-	1.3 [More Documentation](#More-Documentation)
+	-[Add in your template](#Add-in-your-template)
+	- [Get the editor content](#Get-the-editor-content)
+	- [More Documentation](#More-Documentation)
 2. [Future](#Future)
 3. [Lisence](#Lisence)
 
@@ -40,7 +40,7 @@ This pacakge is a light integration of tinymce for meteor.
 			`tinyMCE.get('<selector>').getContent();`
 
 	###1.3 More Documentation
-		You can also read the ![official documentation](https://www.tinymce.com/docs/) of tinymce to have more information.
+		You can also read the [official documentation](https://www.tinymce.com/docs/) of tinymce to have more information.
 
 ## 2.Future
 
